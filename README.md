@@ -52,7 +52,7 @@ I am a developer in the field of machine learning and artificial intelligence. E
 
 ## 🚀 Projects
 
-> 🔧 *Pledle (https://pledle.com)*
+> 🔧 *Pledle (https://pledle.com)* \n
 > 🔧 *Fault detection system*
 
 ---
