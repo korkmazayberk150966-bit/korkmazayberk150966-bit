@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Ayberk 👋</h1>
+<h1 align="center">Hello, I'm Ayberk 👋</h1>
 
 <p align="center">
   <em>C++ · Python · PyTorch · Scikit-learn</em>
@@ -15,18 +15,18 @@
 
 ---
 
-## 🧠 Hakkımda
+## 🧠 About Me
 
-Makine öğrenmesi ve yapay zeka alanında deneyimli bir geliştiriciyim. Veriden anlam çıkarmak, model geliştirmek ve gerçek dünya problemlerine akıllı çözümler üretmek benim için hem bir meslek hem de tutku.
+I am a developer in the field of machine learning and artificial intelligence. Extracting meaning from data, developing models, and creating intelligent solutions to real-world problems are my passions.
 
-- 🔭 Şu an üzerinde çalıştığım: ML/AI projeleri ve model optimizasyonu
-- 🌱 Keşfettiğim alanlar: Deep Learning mimarileri, MLOps
-- 💬 Bana sorabileceğin konular: Python, PyTorch, veri analizi, ML pipeline tasarımı, C++
-- 📍 Türkiye
+- 🔭 Current work: ML/AI projects and model optimization
+- 🌱 Areas I'm exploring: Deep Learning architectures, MLOps
+- 💬 Topics you can ask me about: Python, PyTorch, data analysis, ML pipeline design, C++
+- 📍 Turkey
 
 ---
 
-## 🛠️ Teknoloji & Araçlar
+## 🛠️ Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -41,7 +41,7 @@ Makine öğrenmesi ve yapay zeka alanında deneyimli bir geliştiriciyim. Veride
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=korkmazayberk150966-bit&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
@@ -50,13 +50,14 @@ Makine öğrenmesi ve yapay zeka alanında deneyimli bir geliştiriciyim. Veride
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Projects
 
-> 🔧 *Pledle (https://pledle.com))*
+> 🔧 *Pledle (https://pledle.com)*
+> 🔧 *Fault detection system*
 
 ---
 
-## 📈 Katkı Grafiği
+## 📈 Contribution Chart
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=korkmazayberk150966-bit&theme=github-compact&hide_border=true" />
@@ -68,4 +69,4 @@ Makine öğrenmesi ve yapay zeka alanında deneyimli bir geliştiriciyim. Veride
   <img src="https://komarev.com/ghpvc/?username=korkmazayberk150966-bit&color=10b981&style=flat-square&label=Profil+Görüntülenme" />
 </p>
 
-<p align="center"><em>"Veri olmadan bir teori sadece bir görüştür."</em></p>
+<p align="center"><em>"Without data, a theory is just an opinion."</em></p>
